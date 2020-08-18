@@ -8,4 +8,4 @@ Run npm start
 
 You must add your own API key in the src/App.js file to connect to Clarifai.
 
-You can grab Clarifai API key https://www.clarifai.com/
+You can grab Clarifai API in key https://www.clarifai.com/
